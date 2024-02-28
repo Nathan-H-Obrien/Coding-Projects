@@ -1,0 +1,14 @@
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\bin\Debug\net8.0\NoteTaking.exe
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\bin\Debug\net8.0\NoteTaking.deps.json
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\bin\Debug\net8.0\NoteTaking.runtimeconfig.json
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\bin\Debug\net8.0\NoteTaking.dll
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\bin\Debug\net8.0\NoteTaking.pdb
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.AssemblyInfoInputs.cache
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.AssemblyInfo.cs
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.dll
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\refint\NoteTaking.dll
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.pdb
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\NoteTaking.genruntimeconfig.cache
+C:\Users\bpo_b\Coding Projects\Note-Taking\NoteTaking\obj\Debug\net8.0\ref\NoteTaking.dll
